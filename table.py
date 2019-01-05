@@ -1,5 +1,4 @@
-''' Python program to find the
-multiplication table (from 1 to 10)'''
+print ('Program for generating table of a user entered number')
 
 num = int(input('Enter number : '))
 
